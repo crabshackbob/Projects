@@ -175,6 +175,14 @@
 				>
 			</File>
 			<File
+				RelativePath=".\Guppy.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Minnow.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\Salmon.cpp"
 				>
 			</File>
@@ -218,6 +226,14 @@
 			>
 			<File
 				RelativePath=".\Fish.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Guppy.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Minnow.h"
 				>
 			</File>
 			<File
