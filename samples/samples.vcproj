@@ -215,10 +215,6 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath=".\Trout.cpp"
-				>
-			</File>
-			<File
 				RelativePath=".\Tuna.cpp"
 				>
 			</File>
@@ -262,10 +258,6 @@
 			</File>
 			<File
 				RelativePath=".\targetver.h"
-				>
-			</File>
-			<File
-				RelativePath=".\Trout.h"
 				>
 			</File>
 			<File
