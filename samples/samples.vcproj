@@ -191,6 +191,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\Snapper.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\stdafx.cpp"
 				>
 				<FileConfiguration
@@ -246,6 +250,10 @@
 			</File>
 			<File
 				RelativePath=".\samples.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Snapper.h"
 				>
 			</File>
 			<File
